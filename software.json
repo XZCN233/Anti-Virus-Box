@@ -1,0 +1,63 @@
+[
+    {
+        "name": "2345安全卫士",
+        "url": [
+            "https://download.2345.com/2345pcsafe/background/20221223/2345pcsafe_v7.12.exe"
+        ]
+    },
+    {
+        "name": "360安全卫士",
+        "url": [
+            "https://down.360safe.com/inst.exe"
+        ]
+    },
+    {
+        "name": "360杀毒",
+        "url": [
+            "https://down.360safe.com/360sd/360sd_x64_std_7.0.0.1030D.exe"
+        ]
+    },
+    {
+        "name": "avast",
+        "url": [
+            "https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_WIN/installertype_ONLINE/build_RELEASE/cookie_mmm_ava_998_999_000_m:dlid_FAV-ONLINE-FAD"
+        ]
+    },
+    {
+        "name": "AVG",
+        "url": [
+            "https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_WIN_AVG/installertype_ONLINE/build_RELEASE/cookie_mmm_bav_998_999_000_m:dlid_FREEGSR-FAD"
+        ]
+    },
+    {
+        "name": "歌德塔",
+        "url": [
+            "http://www.gedeta.net/R_25.4.0.3/GDATA_INTERNETSECURITY_WEB_CHN.exe"
+        ]
+    },
+    {
+        "name": "GSafer",
+        "url": [
+            "https://2coins.github.io/杀机魔盒/GSafer极简安全助手.exe",
+            "https://pan.mczyx.online/api/v3/file/source/2186/GSafer%E6%9E%81%E7%AE%80%E5%AE%89%E5%85%A8%E5%8A%A9%E6%89%8B.exe?sign=W58bB9IxoYF1jvYD8_h8VLjWZ9VS9JryNYHMPN1D0GU%3D%3A0"
+        ]
+    },
+    {
+        "name": "McAfee",
+        "url": [
+            "http://download.mcafee.com/molbin/iss-loc/directmtponeclicktrial/1.0/1316/1.0.100.1/mcafee_trial_setup_433.0207.3919_key.exe"
+        ]
+    },
+    {
+        "name": "NANO",
+        "url": [
+            "https://www.nanoav.pro/install/pro/nanoav.setup.exe"
+        ]
+    },
+    {
+        "name": "Sophos",
+        "url": [
+            "https://s.home.sophos.com/download/SophosInstall.exe"
+        ]
+    }
+]
